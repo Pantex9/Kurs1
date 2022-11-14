@@ -1,0 +1,12 @@
+C:\PRAKSA\Kurs1\Kurs1.Models\bin\Debug\net6.0\Kurs1.Models.deps.json
+C:\PRAKSA\Kurs1\Kurs1.Models\bin\Debug\net6.0\Kurs1.Models.dll
+C:\PRAKSA\Kurs1\Kurs1.Models\bin\Debug\net6.0\Kurs1.Models.pdb
+C:\PRAKSA\Kurs1\Kurs1.Models\obj\Debug\net6.0\Kurs1.Models.csproj.AssemblyReference.cache
+C:\PRAKSA\Kurs1\Kurs1.Models\obj\Debug\net6.0\Kurs1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRAKSA\Kurs1\Kurs1.Models\obj\Debug\net6.0\Kurs1.Models.AssemblyInfoInputs.cache
+C:\PRAKSA\Kurs1\Kurs1.Models\obj\Debug\net6.0\Kurs1.Models.AssemblyInfo.cs
+C:\PRAKSA\Kurs1\Kurs1.Models\obj\Debug\net6.0\Kurs1.Models.csproj.CoreCompileInputs.cache
+C:\PRAKSA\Kurs1\Kurs1.Models\obj\Debug\net6.0\Kurs1.Models.dll
+C:\PRAKSA\Kurs1\Kurs1.Models\obj\Debug\net6.0\refint\Kurs1.Models.dll
+C:\PRAKSA\Kurs1\Kurs1.Models\obj\Debug\net6.0\Kurs1.Models.pdb
+C:\PRAKSA\Kurs1\Kurs1.Models\obj\Debug\net6.0\ref\Kurs1.Models.dll

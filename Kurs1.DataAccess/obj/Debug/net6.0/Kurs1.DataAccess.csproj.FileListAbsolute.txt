@@ -1,0 +1,15 @@
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0\Kurs1.DataAccess.csproj.AssemblyReference.cache
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0\Kurs1.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0\Kurs1.DataAccess.AssemblyInfoInputs.cache
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0\Kurs1.DataAccess.AssemblyInfo.cs
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0\Kurs1.DataAccess.csproj.CoreCompileInputs.cache
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\bin\Debug\net6.0\Kurs1.DataAccess.deps.json
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\bin\Debug\net6.0\Kurs1.DataAccess.dll
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\bin\Debug\net6.0\Kurs1.DataAccess.pdb
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\bin\Debug\net6.0\Kurs1.Models.dll
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\bin\Debug\net6.0\Kurs1.Models.pdb
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0\Kurs1.DataAccess.csproj.CopyComplete
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0\Kurs1.DataAccess.dll
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0\refint\Kurs1.DataAccess.dll
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0\Kurs1.DataAccess.pdb
+C:\PRAKSA\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0\ref\Kurs1.DataAccess.dll
