@@ -10,3 +10,15 @@ C:\PRAKSA\Kurs1\Kurs1.Utility\obj\Debug\net6.0\Kurs1.Utility.dll
 C:\PRAKSA\Kurs1\Kurs1.Utility\obj\Debug\net6.0\refint\Kurs1.Utility.dll
 C:\PRAKSA\Kurs1\Kurs1.Utility\obj\Debug\net6.0\Kurs1.Utility.pdb
 C:\PRAKSA\Kurs1\Kurs1.Utility\obj\Debug\net6.0\ref\Kurs1.Utility.dll
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.Utility\bin\Debug\net6.0\Kurs1.Utility.deps.json
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.Utility\bin\Debug\net6.0\Kurs1.Utility.dll
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.Utility\bin\Debug\net6.0\Kurs1.Utility.pdb
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.Utility\obj\Debug\net6.0\Kurs1.Utility.csproj.AssemblyReference.cache
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.Utility\obj\Debug\net6.0\Kurs1.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.Utility\obj\Debug\net6.0\Kurs1.Utility.AssemblyInfoInputs.cache
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.Utility\obj\Debug\net6.0\Kurs1.Utility.AssemblyInfo.cs
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.Utility\obj\Debug\net6.0\Kurs1.Utility.csproj.CoreCompileInputs.cache
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.Utility\obj\Debug\net6.0\Kurs1.Utility.dll
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.Utility\obj\Debug\net6.0\refint\Kurs1.Utility.dll
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.Utility\obj\Debug\net6.0\Kurs1.Utility.pdb
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.Utility\obj\Debug\net6.0\ref\Kurs1.Utility.dll
