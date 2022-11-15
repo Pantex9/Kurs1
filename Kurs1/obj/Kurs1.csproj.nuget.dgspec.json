@@ -162,6 +162,83 @@
         }
       }
     },
+    "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1.Utility\\Kurs1.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1.Utility\\Kurs1.Utility.csproj",
+        "projectName": "Kurs1.Utility",
+        "projectPath": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1.Utility\\Kurs1.Utility.csproj",
+        "packagesPath": "C:\\Users\\milos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\milos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\Kurs1.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -188,6 +265,9 @@
             "projectReferences": {
               "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1.DataAccess\\Kurs1.DataAccess.csproj": {
                 "projectPath": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1.DataAccess\\Kurs1.DataAccess.csproj"
+              },
+              "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1.Utility\\Kurs1.Utility.csproj": {
+                "projectPath": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1.Utility\\Kurs1.Utility.csproj"
               }
             }
           }

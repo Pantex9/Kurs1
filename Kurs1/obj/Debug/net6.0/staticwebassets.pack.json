@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\images\\products\\7b1e9702-b874-46f0-9a8e-76a51c532e2f.jpg"
     },
     {
+      "Id": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
       "Id": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "53lUx60U6+uZxGdbUbf5u3rsdRf3Ny6dUw0K0Sy/zJQ=",
+  "Hash": "8KojkfybyFMlDL1N9zT9FNN4QRh9iq/w281puUIYsus=",
   "Source": "Kurs1",
   "BasePath": "_content/Kurs1",
   "Mode": "Default",
@@ -1154,6 +1154,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\7b1e9702-b874-46f0-9a8e-76a51c532e2f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\js\\company.js",
+      "SourceId": "Kurs1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\",
+      "BasePath": "_content/Kurs1",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\js\\product.js",

@@ -4325,6 +4325,23 @@
         "runtime": {
           "bin/placeholder/Kurs1.Models.dll": {}
         }
+      },
+      "Kurs1.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.10",
+          "Microsoft.AspNetCore.Identity.UI": "6.0.10",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.10",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.10"
+        },
+        "compile": {
+          "bin/placeholder/Kurs1.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kurs1.Utility.dll": {}
+        }
       }
     }
   },
@@ -11620,11 +11637,17 @@
       "type": "project",
       "path": "../Kurs1.Models/Kurs1.Models.csproj",
       "msbuildProject": "../Kurs1.Models/Kurs1.Models.csproj"
+    },
+    "Kurs1.Utility/1.0.0": {
+      "type": "project",
+      "path": "../Kurs1.Utility/Kurs1.Utility.csproj",
+      "msbuildProject": "../Kurs1.Utility/Kurs1.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Kurs1.DataAccess >= 1.0.0",
+      "Kurs1.Utility >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.10",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.10",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 6.0.10",
@@ -11664,6 +11687,9 @@
           "projectReferences": {
             "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1.DataAccess\\Kurs1.DataAccess.csproj": {
               "projectPath": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1.DataAccess\\Kurs1.DataAccess.csproj"
+            },
+            "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1.Utility\\Kurs1.Utility.csproj": {
+              "projectPath": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1.Utility\\Kurs1.Utility.csproj"
             }
           }
         }

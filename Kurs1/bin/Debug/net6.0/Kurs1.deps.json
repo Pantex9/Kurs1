@@ -35,6 +35,7 @@
       "Kurs1/1.0.0": {
         "dependencies": {
           "Kurs1.DataAccess": "1.0.0",
+          "Kurs1.Utility": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.10",
           "Microsoft.AspNetCore.Identity.UI": "6.0.10",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "6.0.10",
@@ -3147,6 +3148,21 @@
         },
         "compile": {
           "Kurs1.Models.dll": {}
+        }
+      },
+      "Kurs1.Utility/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.10",
+          "Microsoft.AspNetCore.Identity.UI": "6.0.10",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.10",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.10"
+        },
+        "runtime": {
+          "Kurs1.Utility.dll": {}
+        },
+        "compile": {
+          "Kurs1.Utility.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery.Reference/6.0.0.0": {
@@ -6403,6 +6419,11 @@
       "sha512": ""
     },
     "Kurs1.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kurs1.Utility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
