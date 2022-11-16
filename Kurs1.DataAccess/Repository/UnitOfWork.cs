@@ -1,4 +1,5 @@
 ﻿using Kurs1.DataAccess.Repository.IRepository;
+using Kurs1.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,6 +20,8 @@ namespace Kurs1.DataAccess.Repository
             Company= new CompanyRepository(_db);
             ShoppingCart = new ShoppingCartRepository(_db);
             ApplicationUser= new ApplicationUserRepository(_db);
+            OrderHeader = new OrderHeaderRepository(_db);
+            OrderDetail = new OrderDetailRepository(_db);
         }
         public ICategoryRepository Category { get; private set; }
         public ICoverTypeRepository CoverType { get; private set; }
@@ -30,7 +33,11 @@ namespace Kurs1.DataAccess.Repository
 
         public IApplicationUserRepository ApplicationUser { get; private set; }
 
-        public void Save()
+		public IOrderDetailRepository OrderDetail { get; private set;}
+
+		public IOrderHeaderRepository OrderHeader { get; private set;}
+
+		public void Save()
         {
             _db.SaveChanges();
         }

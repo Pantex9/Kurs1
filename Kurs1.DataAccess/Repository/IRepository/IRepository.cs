@@ -11,7 +11,7 @@ namespace Kurs1.DataAccess.Repository.IRepository
     {
         //T - Category
         T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includePropereties = null);
-        IEnumerable<T> GetAll(string? includePropereties = null);
+        IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter=null, string? includePropereties = null);
         void Add(T entity);
         void Remove(T entity);
         void RemoveRange(IEnumerable<T> entity);

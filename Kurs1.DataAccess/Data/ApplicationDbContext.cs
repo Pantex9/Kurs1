@@ -16,5 +16,8 @@ namespace Kurs1.DataAccess
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
         public DbSet<Company> Companies { get; set; }
         public DbSet<ShoppingCart> ShoppingCart { get; set; }
+
+        public DbSet<OrderHeader> OrderHeaders { get; set; } 
+        public DbSet<OrderDetail> OrderDetail { get; set; } 
     }
 }

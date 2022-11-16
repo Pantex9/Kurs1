@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZKDaq9EBEEq2yjny5teBWAOMeqIi2hgmgDG7SPzD91IZNnua9AfQqRNtaatrSvEZhd1AbhnpQGc396jIMzv9fQ==",
+  "dgSpecHash": "tr0/Q9QOE8t8YOIyFPO14kdqi2DM/GvYottirnG6G5cVg+xZiiIxdfkfZcf0Cpcti7keBOvIIDlS2lLYNOb93w==",
   "success": true,
   "projectFilePath": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\Kurs1.csproj",
   "expectedPackageFiles": [
@@ -138,6 +138,7 @@
     "C:\\Users\\milos\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\milos\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\milos\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\milos\\.nuget\\packages\\stripe.net\\40.16.0\\stripe.net.40.16.0.nupkg.sha512",
     "C:\\Users\\milos\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\milos\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\milos\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

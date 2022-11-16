@@ -21,12 +21,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\images\\products\\7b1e9702-b874-46f0-9a8e-76a51c532e2f.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\7b1e9702-b874-46f0-9a8e-76a51c532e2f.jpg"
+      "Id": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\images\\1984first.jpg",
+      "PackagePath": "staticwebassets\\images\\1984first.jpg"
+    },
+    {
+      "Id": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\images\\products\\1cafa7a9-8ff3-4d73-a890-3c759f3e30da.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1cafa7a9-8ff3-4d73-a890-3c759f3e30da.jpg"
+    },
+    {
+      "Id": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\images\\products\\33eea59f-ec4b-4449-8e71-b74ecade61fa.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\33eea59f-ec4b-4449-8e71-b74ecade61fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\images\\products\\a8ebd64a-4eeb-4930-ad1d-787fc8b676d3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\a8ebd64a-4eeb-4930-ad1d-787fc8b676d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\images\\products\\df6446a2-bb56-4d74-b7ee-1f54985f9970.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\df6446a2-bb56-4d74-b7ee-1f54985f9970.jpg"
     },
     {
       "Id": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
     },
     {
       "Id": "C:\\Users\\milos\\OneDrive\\Documents\\GitHub\\Kurs1\\Kurs1\\wwwroot\\js\\product.js",
