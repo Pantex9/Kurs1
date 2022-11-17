@@ -1137,3 +1137,6 @@ C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1\bin\Debug\net6.0\Microsoft.
 C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1\bin\Debug\net6.0\Kurs1.Utility.dll
 C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1\bin\Debug\net6.0\Kurs1.Utility.pdb
 C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1\bin\Debug\net6.0\MailKit.dll
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1\bin\Debug\net6.0\MimeKit.dll
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1\bin\Debug\net6.0\BouncyCastle.Crypto.dll

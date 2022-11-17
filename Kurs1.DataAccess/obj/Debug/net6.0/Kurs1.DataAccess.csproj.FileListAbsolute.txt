@@ -28,3 +28,5 @@ C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0
 C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0\refint\Kurs1.DataAccess.dll
 C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0\Kurs1.DataAccess.pdb
 C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.DataAccess\obj\Debug\net6.0\ref\Kurs1.DataAccess.dll
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.DataAccess\bin\Debug\net6.0\Kurs1.Utility.dll
+C:\Users\milos\OneDrive\Documents\GitHub\Kurs1\Kurs1.DataAccess\bin\Debug\net6.0\Kurs1.Utility.pdb

@@ -2,6 +2,8 @@
 using Kurs1.DataAccess.Repository.IRepository;
 using Kurs1.Models;
 using Kurs1.Models.ViewModels;
+using Kurs1.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -9,8 +11,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 namespace Kurs1.Areas.Admin.Controllers
 {
     [Area("Admin")]
-
-    public class ProductController : Controller
+	[Authorize(Roles = SD.Role_Admin)]
+	public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IWebHostEnvironment _hostEnvironment;

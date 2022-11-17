@@ -1,12 +1,14 @@
 ﻿using Kurs1.DataAccess;
 using Kurs1.DataAccess.Repository.IRepository;
 using Kurs1.Models;
+using Kurs1.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Kurs1.Areas.Admin.Controllers
 {
     [Area("Admin")]
-
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
